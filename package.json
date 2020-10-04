@@ -1,0 +1,10 @@
+{ 
+    "name": "renvoiDeDonnees", 
+    "description": "renvoi de données JSON lues dans un fichier", 
+    "scripts": { 
+      "start": "node renvoiDeDonnees.js" 
+   }, 
+    "dependencies": { 
+      "express": "^4.16.4" 
+   } 
+  }
