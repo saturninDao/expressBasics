@@ -1,10 +1,10 @@
 { 
-    "name": "renvoiDeDonnees", 
-    "description": "renvoi de données JSON lues dans un fichier", 
+    "name": "renvoiDeDonneesFiltrees", 
+    "description": "renvoi de données JSON filtrées sur un paramètre", 
     "scripts": { 
-      "start": "node renvoiDeDonnees.js" 
+      "start": "node renvoiDeDonneesFiltrees.js" 
    }, 
     "dependencies": { 
       "express": "^4.16.4" 
    } 
-  }
+}
